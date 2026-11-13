@@ -1,0 +1,401 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 3.0,
+        "max": 6.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "drogas:cannabis_seeds",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:tobacco_seeds",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:poppy_seeds",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:psilocybin_spores",
+          "weight": 18,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:rolling_paper",
+          "weight": 24,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 4.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:organic_fertilizer",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:syringe",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_field_guide_basic",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_mycology_notes",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:coca_seeds",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:jagube_seeds",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:chacrona_seeds",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:maintenance_kit",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:speed_module_1",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:trellis",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:organic_substrate",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:solvent",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_drying_manual",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_grinder_manual",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_table_manual",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_jungle_expedition",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_greenhouse_blueprint",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_brewing_notes",
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "drogas:solvent",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:chem_base",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:catalyst",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:raw_crystal",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:coca_paste",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:morphine_base",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:lsd_solution",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:dmt_crystals",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:speed_module_2",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:greenhouse_regulator",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_chem_safety",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_opioid_research",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_stimulant_research",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_psychedelic_research",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_synthetics_lab",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_maintenance_log",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1.0,
+        "max": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_greenhouse_blueprint",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_field_guide_basic",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_mycology_notes",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_jungle_expedition",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

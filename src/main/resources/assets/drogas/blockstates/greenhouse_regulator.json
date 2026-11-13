@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "drogas:block/greenhouse_regulator"
+    },
+    "lit=true": {
+      "model": "drogas:block/greenhouse_regulator_on"
+    }
+  }
+}

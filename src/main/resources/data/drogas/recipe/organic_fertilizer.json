@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bone_meal",
+    "minecraft:bone_meal",
+    "minecraft:rotten_flesh"
+  ],
+  "result": {
+    "id": "drogas:organic_fertilizer",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:crafting_table",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "drogas:processing_table",
+    "count": 1
+  }
+}

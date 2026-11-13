@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "drogas:block/dryer_top",
+    "side": "drogas:block/dryer_side",
+    "front": "drogas:block/dryer_front"
+  }
+}

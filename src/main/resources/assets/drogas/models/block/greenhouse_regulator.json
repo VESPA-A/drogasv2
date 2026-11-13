@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "drogas:block/greenhouse_regulator_top",
+    "side": "drogas:block/greenhouse_regulator_side",
+    "front": "drogas:block/greenhouse_regulator_front"
+  }
+}

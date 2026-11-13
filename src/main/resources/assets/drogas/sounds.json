@@ -1,0 +1,245 @@
+{
+  "item.pill": {
+    "sounds": [
+      {
+        "name": "drogas:item/pill",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.pill"
+  },
+  "item.swallow": {
+    "sounds": [
+      {
+        "name": "drogas:item/swallow",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.swallow"
+  },
+  "item.rustle": {
+    "sounds": [
+      {
+        "name": "drogas:item/rustle",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.rustle"
+  },
+  "item.smoke_puff": {
+    "sounds": [
+      {
+        "name": "drogas:item/smoke_puff",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.smoke_puff"
+  },
+  "item.exhale": {
+    "sounds": [
+      {
+        "name": "drogas:item/exhale",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.exhale"
+  },
+  "item.tick_puff": {
+    "sounds": [
+      {
+        "name": "drogas:item/tick_puff",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.tick_puff"
+  },
+  "item.snort": {
+    "sounds": [
+      {
+        "name": "drogas:item/snort",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.snort"
+  },
+  "item.inject": {
+    "sounds": [
+      {
+        "name": "drogas:item/inject",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.inject"
+  },
+  "item.lighter": {
+    "sounds": [
+      {
+        "name": "drogas:item/lighter",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.item.lighter"
+  },
+  "machine.hum": {
+    "sounds": [
+      {
+        "name": "drogas:machine/hum",
+        "volume": 0.45
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.hum"
+  },
+  "machine.grind": {
+    "sounds": [
+      {
+        "name": "drogas:machine/grind",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.grind"
+  },
+  "machine.bubble": {
+    "sounds": [
+      {
+        "name": "drogas:machine/bubble",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.bubble"
+  },
+  "machine.fire": {
+    "sounds": [
+      {
+        "name": "drogas:machine/fire",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.fire"
+  },
+  "machine.fan": {
+    "sounds": [
+      {
+        "name": "drogas:machine/fan",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.fan"
+  },
+  "machine.done": {
+    "sounds": [
+      {
+        "name": "drogas:machine/done",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.done"
+  },
+  "machine.break": {
+    "sounds": [
+      {
+        "name": "drogas:machine/break",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.machine.break"
+  },
+  "effect.heartbeat": {
+    "sounds": [
+      {
+        "name": "drogas:effect/heartbeat",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.heartbeat"
+  },
+  "effect.whisper": {
+    "sounds": [
+      {
+        "name": "drogas:effect/whisper",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.whisper"
+  },
+  "effect.tinnitus": {
+    "sounds": [
+      {
+        "name": "drogas:effect/tinnitus",
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.tinnitus"
+  },
+  "effect.warp": {
+    "sounds": [
+      {
+        "name": "drogas:effect/warp",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.warp"
+  },
+  "effect.breath_slow": {
+    "sounds": [
+      {
+        "name": "drogas:effect/breath_slow",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.breath_slow"
+  },
+  "effect.alarm": {
+    "sounds": [
+      {
+        "name": "drogas:effect/alarm",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.alarm"
+  },
+  "effect.shiver": {
+    "sounds": [
+      {
+        "name": "drogas:effect/shiver",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.effect.shiver"
+  },
+  "ui.discover": {
+    "sounds": [
+      {
+        "name": "drogas:ui/discover",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.drogas.ui.discover"
+  },
+  "ui.page": {
+    "sounds": [
+      {
+        "name": "drogas:ui/page",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.ui.page"
+  },
+  "block.wither": {
+    "sounds": [
+      {
+        "name": "drogas:block/wither",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.block.wither"
+  },
+  "block.harvest": {
+    "sounds": [
+      {
+        "name": "drogas:block/harvest",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.drogas.block.harvest"
+  }
+}

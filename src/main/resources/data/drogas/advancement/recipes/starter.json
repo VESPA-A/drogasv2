@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "auto": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "auto"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "drogas:encyclopedia",
+      "drogas:medical_clipboard"
+    ]
+  }
+}

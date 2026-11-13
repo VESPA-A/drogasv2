@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:solvent",
+    "drogas:chem_base",
+    "drogas:catalyst",
+    "drogas:raw_crystal"
+  ]
+}

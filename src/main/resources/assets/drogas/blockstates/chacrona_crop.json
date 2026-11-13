@@ -1,0 +1,292 @@
+{
+  "variants": {
+    "age=0,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a0_s0"
+    },
+    "age=0,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a0_s0"
+    },
+    "age=0,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a0_s0"
+    },
+    "age=0,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a0_s0"
+    },
+    "age=0,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a0_s1"
+    },
+    "age=0,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a0_s1"
+    },
+    "age=0,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a0_s1"
+    },
+    "age=0,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a0_s1"
+    },
+    "age=0,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a0_s2"
+    },
+    "age=0,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a0_s2"
+    },
+    "age=0,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a0_s2"
+    },
+    "age=0,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a0_s2"
+    },
+    "age=1,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a1_s0"
+    },
+    "age=1,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a1_s0"
+    },
+    "age=1,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a1_s0"
+    },
+    "age=1,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a1_s0"
+    },
+    "age=1,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a1_s1"
+    },
+    "age=1,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a1_s1"
+    },
+    "age=1,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a1_s1"
+    },
+    "age=1,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a1_s1"
+    },
+    "age=1,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a1_s2"
+    },
+    "age=1,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a1_s2"
+    },
+    "age=1,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a1_s2"
+    },
+    "age=1,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a1_s2"
+    },
+    "age=2,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a2_s0"
+    },
+    "age=2,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a2_s0"
+    },
+    "age=2,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a2_s0"
+    },
+    "age=2,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a2_s0"
+    },
+    "age=2,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a2_s1"
+    },
+    "age=2,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a2_s1"
+    },
+    "age=2,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a2_s1"
+    },
+    "age=2,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a2_s1"
+    },
+    "age=2,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a2_s2"
+    },
+    "age=2,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a2_s2"
+    },
+    "age=2,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a2_s2"
+    },
+    "age=2,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a2_s2"
+    },
+    "age=3,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a3_s0"
+    },
+    "age=3,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a3_s0"
+    },
+    "age=3,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a3_s0"
+    },
+    "age=3,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a3_s0"
+    },
+    "age=3,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a3_s1"
+    },
+    "age=3,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a3_s1"
+    },
+    "age=3,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a3_s1"
+    },
+    "age=3,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a3_s1"
+    },
+    "age=3,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a3_s2"
+    },
+    "age=3,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a3_s2"
+    },
+    "age=3,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a3_s2"
+    },
+    "age=3,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a3_s2"
+    },
+    "age=4,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a4_s0"
+    },
+    "age=4,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a4_s0"
+    },
+    "age=4,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a4_s0"
+    },
+    "age=4,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a4_s0"
+    },
+    "age=4,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a4_s1"
+    },
+    "age=4,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a4_s1"
+    },
+    "age=4,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a4_s1"
+    },
+    "age=4,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a4_s1"
+    },
+    "age=4,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a4_s2"
+    },
+    "age=4,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a4_s2"
+    },
+    "age=4,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a4_s2"
+    },
+    "age=4,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a4_s2"
+    },
+    "age=5,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a5_s0"
+    },
+    "age=5,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a5_s0"
+    },
+    "age=5,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a5_s0"
+    },
+    "age=5,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a5_s0"
+    },
+    "age=5,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a5_s1"
+    },
+    "age=5,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a5_s1"
+    },
+    "age=5,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a5_s1"
+    },
+    "age=5,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a5_s1"
+    },
+    "age=5,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a5_s2"
+    },
+    "age=5,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a5_s2"
+    },
+    "age=5,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a5_s2"
+    },
+    "age=5,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a5_s2"
+    },
+    "age=6,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a6_s0"
+    },
+    "age=6,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a6_s0"
+    },
+    "age=6,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a6_s0"
+    },
+    "age=6,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a6_s0"
+    },
+    "age=6,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a6_s1"
+    },
+    "age=6,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a6_s1"
+    },
+    "age=6,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a6_s1"
+    },
+    "age=6,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a6_s1"
+    },
+    "age=6,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a6_s2"
+    },
+    "age=6,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a6_s2"
+    },
+    "age=6,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a6_s2"
+    },
+    "age=6,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a6_s2"
+    },
+    "age=7,stress=0,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a7_s0"
+    },
+    "age=7,stress=0,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a7_s0"
+    },
+    "age=7,stress=0,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a7_s0"
+    },
+    "age=7,stress=0,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a7_s0"
+    },
+    "age=7,stress=1,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a7_s1"
+    },
+    "age=7,stress=1,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a7_s1"
+    },
+    "age=7,stress=1,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a7_s1"
+    },
+    "age=7,stress=1,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a7_s1"
+    },
+    "age=7,stress=2,vigor=0": {
+      "model": "drogas:block/chacrona_crop_a7_s2"
+    },
+    "age=7,stress=2,vigor=1": {
+      "model": "drogas:block/chacrona_crop_a7_s2"
+    },
+    "age=7,stress=2,vigor=2": {
+      "model": "drogas:block/chacrona_crop_a7_s2"
+    },
+    "age=7,stress=2,vigor=3": {
+      "model": "drogas:block/chacrona_crop_a7_s2"
+    }
+  }
+}

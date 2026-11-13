@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat_seeds",
+    "minecraft:fern",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "drogas:cannabis_seeds",
+    "count": 2
+  }
+}

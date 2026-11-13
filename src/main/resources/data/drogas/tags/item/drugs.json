@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:joint",
+    "drogas:cannabis_brownie",
+    "drogas:opium_gum",
+    "drogas:morphine_vial",
+    "drogas:heroin_dose",
+    "drogas:cigarette",
+    "drogas:cigar",
+    "drogas:magic_mushroom",
+    "drogas:dried_magic_mushroom",
+    "drogas:coca_leaf",
+    "drogas:cocaine_powder",
+    "drogas:crack_rock",
+    "drogas:lsd_blotter",
+    "drogas:ayahuasca_brew",
+    "drogas:dmt_dose",
+    "drogas:meth_shard",
+    "drogas:mdma_pill",
+    "drogas:ketamine_vial",
+    "drogas:beer",
+    "drogas:wine",
+    "drogas:spirit",
+    "drogas:nebulon_tab",
+    "drogas:zyrax_vial"
+  ]
+}

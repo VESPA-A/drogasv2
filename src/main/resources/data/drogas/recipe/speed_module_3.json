@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "drogas:speed_module_2",
+    "minecraft:diamond",
+    "minecraft:redstone",
+    "minecraft:quartz"
+  ],
+  "result": {
+    "id": "drogas:speed_module_3",
+    "count": 1
+  }
+}

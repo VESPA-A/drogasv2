@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "drogas:block/organic_substrate_top",
+    "bottom": "drogas:block/organic_substrate_side",
+    "side": "drogas:block/organic_substrate_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:cannabis_seeds",
+    "drogas:poppy_seeds",
+    "drogas:tobacco_seeds",
+    "drogas:psilocybin_spores",
+    "drogas:coca_seeds",
+    "drogas:jagube_seeds",
+    "drogas:chacrona_seeds"
+  ]
+}

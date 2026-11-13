@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:joint",
+    "drogas:opium_gum",
+    "drogas:cigarette",
+    "drogas:cigar",
+    "drogas:crack_rock",
+    "drogas:dmt_dose",
+    "drogas:meth_shard"
+  ]
+}

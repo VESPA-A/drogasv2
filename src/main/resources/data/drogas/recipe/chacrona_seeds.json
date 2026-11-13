@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:fern",
+    "minecraft:fern",
+    "minecraft:sweet_berries",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "drogas:chacrona_seeds",
+    "count": 2
+  }
+}

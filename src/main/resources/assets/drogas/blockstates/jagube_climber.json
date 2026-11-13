@@ -1,0 +1,388 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "0"
+          },
+          {
+            "age": "0",
+            "south": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a0"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "0"
+          },
+          {
+            "age": "0",
+            "west": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a0",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "0"
+          },
+          {
+            "age": "0",
+            "north": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a0",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "0"
+          },
+          {
+            "age": "0",
+            "east": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a0",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "age": "0",
+        "up": "true"
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_up_a0"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "1"
+          },
+          {
+            "age": "1",
+            "south": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a1"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "1"
+          },
+          {
+            "age": "1",
+            "west": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "1"
+          },
+          {
+            "age": "1",
+            "north": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a1",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "1"
+          },
+          {
+            "age": "1",
+            "east": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a1",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "age": "1",
+        "up": "true"
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_up_a1"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "2"
+          },
+          {
+            "age": "2",
+            "south": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a2"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "2"
+          },
+          {
+            "age": "2",
+            "west": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "2"
+          },
+          {
+            "age": "2",
+            "north": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a2",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "2"
+          },
+          {
+            "age": "2",
+            "east": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a2",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "age": "2",
+        "up": "true"
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_up_a2"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "3"
+          },
+          {
+            "age": "3",
+            "south": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a3"
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "3"
+          },
+          {
+            "age": "3",
+            "west": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a3",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "3"
+          },
+          {
+            "age": "3",
+            "north": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a3",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "OR": [
+          {
+            "north": "false",
+            "east": "false",
+            "south": "false",
+            "west": "false",
+            "up": "false",
+            "age": "3"
+          },
+          {
+            "age": "3",
+            "east": "true"
+          }
+        ]
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_side_a3",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "age": "3",
+        "up": "true"
+      },
+      "apply": {
+        "model": "drogas:block/jagube_climber_up_a3"
+      }
+    }
+  ]
+}

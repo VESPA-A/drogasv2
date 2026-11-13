@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:vine",
+    "minecraft:vine",
+    "minecraft:cocoa_beans",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "drogas:jagube_seeds",
+    "count": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:furnace",
+    "minecraft:iron_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:blaze_powder"
+  ],
+  "result": {
+    "id": "drogas:processing_furnace",
+    "count": 1
+  }
+}

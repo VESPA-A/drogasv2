@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat_seeds",
+    "minecraft:fern",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "drogas:tobacco_seeds",
+    "count": 2
+  }
+}

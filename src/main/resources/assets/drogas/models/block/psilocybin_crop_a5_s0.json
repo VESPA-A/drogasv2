@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "drogas:block/psilocybin_a5_s0"
+  }
+}

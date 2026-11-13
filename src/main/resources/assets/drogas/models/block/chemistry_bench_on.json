@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "drogas:block/chemistry_bench_top",
+    "side": "drogas:block/chemistry_bench_side",
+    "front": "drogas:block/chemistry_bench_front_on"
+  }
+}

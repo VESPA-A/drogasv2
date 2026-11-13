@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:processing_table",
+    "drogas:dryer",
+    "drogas:storage_crate",
+    "drogas:trellis",
+    "drogas:field_notes_lab",
+    "drogas:field_notes_greenhouse",
+    "drogas:field_notes_researcher",
+    "drogas:field_notes_depot"
+  ]
+}

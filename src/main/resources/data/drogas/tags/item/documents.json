@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:doc_field_guide_basic",
+    "drogas:doc_mycology_notes",
+    "drogas:doc_jungle_expedition",
+    "drogas:doc_drying_manual",
+    "drogas:doc_grinder_manual",
+    "drogas:doc_table_manual",
+    "drogas:doc_chem_safety",
+    "drogas:doc_opioid_research",
+    "drogas:doc_stimulant_research",
+    "drogas:doc_psychedelic_research",
+    "drogas:doc_synthetics_lab",
+    "drogas:doc_brewing_notes",
+    "drogas:doc_greenhouse_blueprint",
+    "drogas:doc_maintenance_log",
+    "drogas:doc_quality_study",
+    "drogas:doc_addiction_study"
+  ]
+}

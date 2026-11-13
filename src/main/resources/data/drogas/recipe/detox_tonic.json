@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:honey_bottle",
+    "minecraft:sweet_berries",
+    "minecraft:sweet_berries",
+    "minecraft:dried_kelp"
+  ],
+  "result": {
+    "id": "drogas:detox_tonic",
+    "count": 1
+  }
+}

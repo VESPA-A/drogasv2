@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.drogas.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": ["GameRendererMixin"],
+  "injectors": { "defaultRequire": 0 }
+}

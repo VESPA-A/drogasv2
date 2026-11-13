@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "drogas:block/poppy_a1_s2"
+  }
+}

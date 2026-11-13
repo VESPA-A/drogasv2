@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "drogas",
+  "version": "${version}",
+  "name": "Drogas Mod",
+  "description": "Mod de jogabilidade: substâncias fictícias com efeitos visuais e de gameplay, tolerância, dependência, abstinência, overdose, plantio e laboratórios simples. Todo o conteúdo é fictício e baseado em itens do jogo.",
+  "authors": ["Drogas Mod"],
+  "license": "MIT",
+  "icon": "assets/drogas/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.drogas.DrogasMod"],
+    "client": ["dev.drogas.client.DrogasClient"]
+  },
+  "mixins": ["drogas.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

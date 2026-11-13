@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dirt",
+    "minecraft:rotten_flesh",
+    "minecraft:bone_meal",
+    "minecraft:brown_mushroom"
+  ],
+  "result": {
+    "id": "drogas:organic_substrate",
+    "count": 2
+  }
+}

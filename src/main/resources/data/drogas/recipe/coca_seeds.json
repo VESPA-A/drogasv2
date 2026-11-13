@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cocoa_beans",
+    "minecraft:cocoa_beans",
+    "minecraft:wheat_seeds",
+    "minecraft:glow_berries"
+  ],
+  "result": {
+    "id": "drogas:coca_seeds",
+    "count": 2
+  }
+}

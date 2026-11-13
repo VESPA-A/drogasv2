@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "drogas:block/cannabis_a6_s1"
+  }
+}

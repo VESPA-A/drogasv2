@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "drogas:block/chacrona_a3_s2"
+  }
+}

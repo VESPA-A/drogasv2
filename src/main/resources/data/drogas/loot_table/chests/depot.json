@@ -1,0 +1,170 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 3.0,
+        "max": 5.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "drogas:maintenance_kit",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:speed_module_1",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:trellis",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:organic_substrate",
+          "weight": 9,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 3.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:processing_table",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:grinder",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:dryer",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:storage_crate",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0.0,
+        "max": 2.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "drogas:solvent",
+          "weight": 8,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:chem_base",
+          "weight": 6,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 2.0
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:speed_module_2",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:greenhouse_regulator",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:doc_maintenance_log",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 0.0,
+        "max": 1.0
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "drogas:chemistry_bench",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:processing_furnace",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "drogas:speed_module_3",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 18
+        }
+      ]
+    }
+  ]
+}

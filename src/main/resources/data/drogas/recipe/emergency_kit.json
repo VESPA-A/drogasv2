@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:golden_carrot",
+    "minecraft:redstone",
+    "minecraft:bone_meal",
+    "minecraft:bone_meal",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "drogas:emergency_kit",
+    "count": 1
+  }
+}

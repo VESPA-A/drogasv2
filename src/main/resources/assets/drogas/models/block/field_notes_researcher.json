@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "drogas:block/field_notes_researcher_top",
+    "bottom": "drogas:block/field_notes_side",
+    "side": "drogas:block/field_notes_side"
+  }
+}

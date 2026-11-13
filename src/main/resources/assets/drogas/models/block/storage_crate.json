@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "drogas:block/storage_crate_top",
+    "bottom": "drogas:block/storage_crate_top",
+    "side": "drogas:block/storage_crate_side"
+  }
+}

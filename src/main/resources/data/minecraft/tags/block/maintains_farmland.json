@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:cannabis_crop",
+    "drogas:poppy_crop",
+    "drogas:tobacco_crop",
+    "drogas:psilocybin_crop",
+    "drogas:coca_crop",
+    "drogas:jagube_crop",
+    "drogas:chacrona_crop"
+  ]
+}

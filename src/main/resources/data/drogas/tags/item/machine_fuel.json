@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:coal",
+    "minecraft:charcoal",
+    "minecraft:blaze_powder",
+    "minecraft:blaze_rod"
+  ]
+}

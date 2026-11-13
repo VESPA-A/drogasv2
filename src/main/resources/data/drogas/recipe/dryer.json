@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:planks",
+    "#minecraft:planks",
+    "#minecraft:planks",
+    "minecraft:string",
+    "minecraft:string",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "drogas:dryer",
+    "count": 1
+  }
+}

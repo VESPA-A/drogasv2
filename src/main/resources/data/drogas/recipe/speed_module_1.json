@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:redstone",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "drogas:speed_module_1",
+    "count": 1
+  }
+}

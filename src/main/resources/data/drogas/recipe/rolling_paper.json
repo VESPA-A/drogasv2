@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "drogas:rolling_paper",
+    "count": 3
+  }
+}

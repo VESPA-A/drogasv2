@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "drogas:chemistry_bench",
+    "drogas:grinder",
+    "drogas:processing_furnace",
+    "drogas:greenhouse_regulator"
+  ]
+}

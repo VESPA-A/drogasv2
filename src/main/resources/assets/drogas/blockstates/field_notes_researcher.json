@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "drogas:block/field_notes_researcher"
+    }
+  }
+}

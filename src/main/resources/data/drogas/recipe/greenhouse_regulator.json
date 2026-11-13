@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:copper_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:glass",
+    "minecraft:bucket",
+    "minecraft:redstone"
+  ],
+  "result": {
+    "id": "drogas:greenhouse_regulator",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:poppy",
+    "minecraft:wheat_seeds"
+  ],
+  "result": {
+    "id": "drogas:poppy_seeds",
+    "count": 2
+  }
+}
