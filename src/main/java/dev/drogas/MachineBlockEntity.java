@@ -205,10 +205,12 @@ public class MachineBlockEntity extends BlockEntity implements ImplementedContai
     }
 
     private void craft(ServerLevel level, MachineRecipes.Recipe r, int tier) {
-        int[] slots = r.match(items);
-        if (slots == null) return;
-        for (int k = 0; k < slots.length; k++) items.get(slots[k]).shrink(r.inputs().get(k).count());
-        ItemStack out = items.get(type.outSlot);
+      int[] slots = r.match(items);
+      if (slots == null) return;
+      for (int k = 0; k < slots.length; k++) items.get(slots[k]).shrink(r.inputs().get(k).count());
+
+      int madeQuality = cycleQuality;
+      ItemStack out = items.get(type.outSlot);
         if (out.isEmpty()) {
             ItemStack made = new ItemStack(r.output(), r.outCount());
             if (Quality.capable(r.output())) Quality.with(made, madeQuality);
@@ -216,7 +218,7 @@ public class MachineBlockEntity extends BlockEntity implements ImplementedContai
         } else {
             out.grow(r.outCount());
         }
-        int madeQuality = cycleQuality;
+       
         int before = wear;
         wear = Math.min(WEAR_MAX, wear + Math.round(type.wearPerCraft * (1f + 0.25f * tier)));
         cycleQuality = -1;
