@@ -7,7 +7,6 @@ import dev.drogas.ModItems;
 import dev.drogas.Substance;
 import java.util.ArrayList;
 import java.util.List;
-import net.minecraft.Util;
 import net.minecraft.client.DeltaTracker;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.Font;
