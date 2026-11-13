@@ -75,7 +75,7 @@ public final class DrugHud {
         DrogasConfig cfg = DrogasConfig.get();
         float vis = Math.max(0f, cfg.visualIntensity);
         int w = g.guiWidth(), h = g.guiHeight();
-        float t = (Util.getMillis() % 1_000_000L) / 1000f;
+        float t = (System.currentTimeMillis() % 1_000_000L) / 1000f;
 
         if (vis > 0f) {
             for (ClientEffects.Active a : ClientEffects.active()) {
