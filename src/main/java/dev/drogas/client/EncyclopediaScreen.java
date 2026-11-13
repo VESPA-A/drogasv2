@@ -140,7 +140,7 @@ public class EncyclopediaScreen extends Screen {
         if (tab < 5 && selected - scroll >= 0 && selected - scroll < rows()) {
             g.fill(px + 6, py + 27 + (selected - scroll) * ROW, px + 142, py + 27 + (selected - scroll) * ROW + ROW, 0xFFFFD27C);
         }
-        for (Renderable r : this.renderables) r.render(g, mouseX, mouseY, delta);
+        super.render(g, mouseX, mouseY, delta);
         if (mc.player == null) return;
         int dx = px + 148, dy = py + 28, dw = pw - 156;
         if (tab < 5) drawEntry(g, mc, dx, dy, dw);
